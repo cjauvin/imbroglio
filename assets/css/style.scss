@@ -3,3 +3,44 @@
 
 @import 'jekyll-theme-cayman-blog';
 @import 'cjauvin';
+
+.page-header {
+  color: white;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(
+      rgba(100, 100, 100, 0.5),
+      rgba(100, 100, 100, 0.5)
+    ), url('/assets/images/Habitat_panorama.jpg');
+  background-size: cover;
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+
+.project-tagline {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 1;
+
+  @include large {
+    font-size: 1.25rem;
+  }
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    font-size: 1rem;
+  }
+}
