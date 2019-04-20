@@ -9,7 +9,7 @@
   background-image: linear-gradient(
       rgba(100, 100, 100, 0.5),
       rgba(100, 100, 100, 0.5)
-    ), url('/assets/images/Habitat_panorama.jpg');
+    ), url('{{ site.baseurl }}/assets/images/Habitat_panorama.jpg');
   background-size: cover;
 
   @include large {
