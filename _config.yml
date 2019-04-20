@@ -17,7 +17,7 @@ title: IMBROGLIO
 email: cjauvin@gmail.com
 description: Tech Consultant based in Montreal
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/imbroglio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: christianjauvin
 # github_username:  cjauvin
