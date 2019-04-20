@@ -5,7 +5,7 @@ ref: index
 tagline: Tech Consultant based in Montreal
 ---
 
-Howdy! We do two things, and we do them quite well:
+Hi! We do two things, and we do them quite well:
 
 ## Web Applications
 
