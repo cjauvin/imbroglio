@@ -5,6 +5,9 @@ ref: index
 tagline: Tech Consultant based in Montreal
 ---
 
+> _"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled._"
+> ---Richard Feynman
+
 Hi! We do two things, and we do them quite well:
 
 ## Web Applications
