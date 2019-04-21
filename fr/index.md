@@ -6,15 +6,14 @@ permalink: /fr/index.html
 tagline: Consultant en tech montréalais
 ---
 
-> "Pour une technologie réussie, la réalité doit prendre le pas sur les relations publiques, car la nature ne peut être dupe."
-> ---Richard Feynman
+> "Un système complexe fonctionnel a invariablement évolué d'un système simple fonctionnel. Un système complexe ne peut pas être développé d'un seul coup et rapiécé en cours de route. Il devra nécessairement être recommencé du début par un système simple fonctionnel"
+> ---John Gall
 
 ## Applications web et mobiles
 
 Notre expertise en développement *full stack* nous permet de créer des
-applications web ou mobiles d'entreprise modernes et de haute qualité
-(de l'interface graphique aux bases de données), que nous opérons pour
-vous dans le nuage.
+applications web ou mobiles de haute qualité (de l'interface graphique 
+aux bases de données), que nous opérons pour vous dans le nuage.
 
 ## Intelligence artificielle et science des données
 
