@@ -2,6 +2,7 @@
 layout: home
 lang: fr
 ref: index
+permalink: /fr/index.html
 tagline: Consultant en tech montréalais
 ---
 
