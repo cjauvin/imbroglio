@@ -6,7 +6,7 @@ permalink: /fr/index.html
 tagline: Consultant en tech montréalais
 ---
 
-> Pour une technologie réussie, la réalité doit prendre le pas sur les relations publiques, car la nature ne peut être dupe.
+> "Pour une technologie réussie, la réalité doit prendre le pas sur les relations publiques, car la nature ne peut être dupe."
 > ---Richard Feynman
 
 ## Applications web et mobiles
