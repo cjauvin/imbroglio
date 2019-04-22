@@ -24,6 +24,8 @@ Certains problèmes peuvent parfois avoir une solution étonnamment
 simple, avec un peu de programmation et d'automatisation (génération
 de documents PDF, transfert de données d'un endroit à un autre, etc).
 
+
+
 > "Un système complexe qui fonctionne se trouve invariablement a avoir évolué 
 > depuis un système simple qui fonctionnait. Un système complexe ne peut pas 
 > être développé d'un seul coup et rapiécé en cours de route. Il devra 
