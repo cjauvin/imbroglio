@@ -6,6 +6,14 @@ permalink: /fr/index.html
 tagline: Consultants montréalais en technologie
 ---
 
+> "Un système complexe qui fonctionne se trouve invariablement a avoir évolué 
+> depuis un système simple qui fonctionnait. Un système complexe ne peut pas 
+> être développé d'un seul coup et rapiécé en cours de route. Il devra 
+> nécessairement être recommencé du début à partir d'un système simple 
+> fonctionnel"
+> ---John Gall
+
+
 ## Applications web et mobiles
 
 Notre expertise en développement *full stack* nous permet de créer des
@@ -23,12 +31,3 @@ nouvelles technologies.
 Certains problèmes peuvent parfois avoir une solution étonnamment
 simple, avec un peu de programmation et d'automatisation (génération
 de documents PDF, transfert de données d'un endroit à un autre, etc).
-
-
-
-> "Un système complexe qui fonctionne se trouve invariablement a avoir évolué 
-> depuis un système simple qui fonctionnait. Un système complexe ne peut pas 
-> être développé d'un seul coup et rapiécé en cours de route. Il devra 
-> nécessairement être recommencé du début à partir d'un système simple 
-> fonctionnel"
-> ---John Gall
